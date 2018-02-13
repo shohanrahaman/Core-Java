@@ -1,0 +1,25 @@
+	##===##===Java History===##===##
+
+#JAVA :
+
+	----Java is a high level, robust, secured and object-oriented programming language. James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991 & Developed by Sun Microsystems and released in 1995.
+ 	   Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX, that's why called patform independent.
+
+#Platform :
+
+	----Any hardware or software environment in which a program runs, is known as a platform.
+
+#How Java Works :
+
+	Platform Independent [Machine Independent -- Windows, Mac, Linux]
+	Java program runs -- JVM(Java Virtual Machine)
+	Java Development/ Write code -- JDK(Java Developmenet Kit).
+	JDK within JRE(Java Runtime Envirunment),
+	JRE within JVM
+	JVM --- byte code(.class file) ---> machine code
+
+	#JDK ----->> #JRE ----->> #JVM
+
+
+
+
