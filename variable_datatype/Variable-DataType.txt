@@ -1,0 +1,36 @@
+   ======Variables and Data Types=====
+
+#Three types of variable :
+
+	#Local variable - A variable which is declared inside the method is called local variable.
+	#instance variable - A variable which is declared inside the class but outside the method, is called instance variable 
+	#static variable - A variable that is declared as static is called static variable. It cannot be local.
+
+
+#Class Memeber :
+	variable 
+	method
+
+#Non static member can directly access -- static & non-static member
+
+
+#Variable Name :
+	[  A...Z, a...z, 0...9, _, $  ]
+	ex -- variable102
+
+
+#Data Types :
+
+	#Primitive data types :
+		boolean 
+		char 
+		byte 
+		short 
+		int 
+		long 
+		float 
+		double
+
+	#Non-primitive data types :
+		String
+		Array
