@@ -1,0 +1,23 @@
+	=======Naming Convention=====
+
+	#class name : should start with uppercase letter.
+		Ex -- Studennt, Employees
+
+	#interface name : should start with uppercase letter.
+		Ex -- Runnable, ActionListener 
+
+	#constants name : should be in uppercase letter.
+		Ex -- MAX_PRIORITY 
+
+	#variable name : should start with lowercase letter.
+		Ex -- firstName
+
+	#method name : should start with lowercase letter.
+		Ex -- main(), println()
+
+	#package name : should be in lowercase letter.
+		Ex -- lang, util 
+
+	#CamelCase : 
+		Ex -- ActionEvent
+	

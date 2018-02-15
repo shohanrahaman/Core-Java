@@ -1,0 +1,35 @@
+	=====Object=====
+
+	#An entity that has state and behavior
+	#It can be physical and logical
+	#Object is a real world entity.
+	#Object is an instance of a class.
+	#An object has three characteristics :
+		# state
+		# behavior
+		# identity - unique ID [ used internally by the JVM to identify each object uniquely. ]
+
+		Example : Pen is an object. Its name is Reynolds, color is white etc. known as its state. 
+			 It is used to write, so writing is its behavior.
+	#Three way initialize object :
+		#By reference variable
+		#By method
+		#By constructor
+
+
+
+	======Class=====
+
+	#A Class is a group of object which have common properties.
+	#It is a template or blueprint from which objects are created.
+	#It is a logical entity
+	#Class in java can contain :
+		#fields
+		#methods
+		#constructors
+		#blocks
+		#nested class and interface
+
+
+	#Instance variable doesn't get memory at compile time. It gets memory at run time when object(instance) is created.
+	#new keyword is used to allocate memory at run time. All objects get memory in Heap memory area.

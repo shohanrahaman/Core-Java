@@ -1,0 +1,10 @@
+		======Constructor=====
+
+		#It is a special type of method which is used to initialize the object.
+		#java compiler creates a default constructor if your class doesn't have any.
+		#Constructor name must be same as its class name
+		#Constructor must have no explicit return type
+		#Two types of constructor :
+			#Default constructor
+			#Parameterized constructor
+		#java this keyword. In java, this is a reference variable that refers to the current object.
