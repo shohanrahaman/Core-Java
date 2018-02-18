@@ -1,0 +1,26 @@
+	===------Method Overloading===
+
+	# Method overloading is a process that allows a class to have two or more methods habing same naem,
+ 	   as long a s their parameter declarations are different.	
+	# Methods are called overloaded method.
+
+	# Same method names
+	# Parameter lists are different
+	# Inside the same class
+	
+
+
+
+
+	===------Method Overriding-----===
+
+	# Declaring a method in subclass which is already present in superclass is known as method overriding.
+
+	# Code reuse
+	# One interface, multiple implement
+	# Run time ploymorphism
+
+	# Name, signature type, parameter must be same.
+	# if a method can't be inherited, then it can't be overridden.
+	# A method declared as final or static can't be overridden.
+	# Constructor can't be overridden.
