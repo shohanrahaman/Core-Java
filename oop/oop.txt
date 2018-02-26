@@ -1,0 +1,59 @@
+					=====---=====---OOP---=====---=====
+
+	# Inheritaance :
+
+		When one object acquires all the properties (methods and fields) and behaviours of parent object  known as inheritance. 
+		
+		# For code reusability. 
+		# For method overriding
+		# To implement parent-child relationship
+		---------------------------------------------------------------------------
+		# use extends keyword
+		# Parent class/ Super class/ Base class
+ 		# Child class/ sub class/ derived class
+
+	# Polymorphism :
+
+		When one task is performed by different ways known as polymorphism. Ex : to convince the customer differently.
+		In java, we use method overloading and method overriding to achieve polymorphism.		
+
+		# Types of polymorphism :
+			# Compile time / static polymorphism (Method overloading/Constructor overloading)
+			# Run time / dynamic polymorphishm (Method overriding)
+	# Abstraction :
+
+		Hiding internal details and showing functionality is known as abstraction. Ex : phone call, we don't know the internal processing.
+
+		# Two way to achieve abstraction in java :
+			# Abstract class ( 0 to 100% )
+			# Interface ( Achieve 100% abstraction )
+
+		# Abstract method :
+			# Abstract mehtod has no body
+			# it must be in the abstract class
+			# it must be oberridden
+			# it can never be final and static
+
+		# Abstract Class :
+			# Abstract class have abstract and non abstract method
+			# Abstract class can't be instantiated(object)
+		
+		# Interface :
+			# An interface is a collection of abstract methods
+			# Fully abstraction
+			# support multiple inheritance 
+			# Variables are constant (public, static and final)
+			
+
+	# Encapsulation :
+
+		Binding (or wrapping) code and data together into a single unit is known as encapsulation. Ex : capsule, it is wrapped with different medicines.
+			# Packaging variable and method into a single unit.
+			# Protecting data by declaring them as private.
+			# Private data will be hidden from other classes and they can only be accessed through the methods of theri current class. this is known as  data hiding.
+
+			Benefits :
+
+				# provies data hiding
+				# reusability
+				# code can be modified without breaking the code

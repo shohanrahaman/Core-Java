@@ -1,0 +1,58 @@
+			====------Exception Handling----====
+
+	# Exception :
+		An exception is a run time error
+
+	# Type of exception :
+		# ArithmeticException
+			int x = 10;
+			int y = 0;
+			int result = x/y;
+
+		# NullPointerException
+			String name = null;
+			System.out.println(name.charAt(0));
+
+		# StringIndexOutOfBoundsException
+			String name = "Shohan"; //length is 6
+			System.out.println(name.charAt(9));
+
+		# NumberFormatException
+			int num = Integer.parseInt("Rahaman");
+
+		# FileNotFoundException
+			File file = new File("D://file.txt");
+
+		# ArrayIndexOutOfBoundsException
+			int a[] = new int[5];
+			a[5] = 32;
+
+		# ClassNotFoundException
+		# IOException
+		# NoSuchMethodException
+
+		# Exception Hierarchy :		 
+
+				  Object 
+
+				Throwable 
+
+		  Error 	----------------|		|------------------     Exception 
+	
+		 UnChecked-Exception{RuntimeException}------|	    |-------Checked-Exception{CompileTimeException}
+
+			ArithmeticException 				IOException
+			NullPointerException 				ClassNotFoundException
+			NumberFormatException 				FileNotFoundException
+			ArrayIndexOutOfBoundsException
+
+		# Exception Handling :
+			Exception handling is one of the powerful mechanism to handle the runtime errors.
+
+		# Exception handling is managed by 5 keywords :
+			# try 
+			# catch 
+			# finally  //it must run if catch can't receive 
+			# throw 
+			# throws
+
