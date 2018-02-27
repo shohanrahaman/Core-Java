@@ -1,0 +1,15 @@
+   	  # Array-----------------vs---------------- ArrayList
+
+	size Fixed 		size not Fixed
+	for, for each loop 		for each loop,iterator
+	fast			slow
+	array.length		array.size()
+
+
+	# Array is a collection of variable of the same type
+
+		int[] number; //Declaration
+
+		number = new int[10]; //Creation
+
+		int[] number = new int[10]; //in one step
